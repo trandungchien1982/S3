@@ -47,3 +47,11 @@ networks:
 D:\Projects\S3
 ```
 ==============================================================
+
+# Ví dụ [01.HelloWorld]
+==============================================================
+
+**Tham khảo**
+- https://viblo.asia/p/minio-object-storage-server-nhu-aws-s3-LzD5d0AW5jY
+- https://thuanbui.me/tao-object-storage-server-voi-minio-docker/
+
