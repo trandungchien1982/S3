@@ -48,10 +48,17 @@ D:\Projects\S3
 ```
 ==============================================================
 
-# Ví dụ [01.HelloWorld]
+# Ví dụ [02.Upload+Download]
 ==============================================================
 
 **Tham khảo**
-- https://viblo.asia/p/minio-object-storage-server-nhu-aws-s3-LzD5d0AW5jY
-- https://thuanbui.me/tao-object-storage-server-voi-minio-docker/
+- https://www.baeldung.com/java-aws-s3
+- https://viblo.asia/p/upload-file-len-amazon-s3-su-dung-java-spring-boot-E375zQadlGW
+- https://github.com/awsdocs/aws-doc-sdk-examples/tree/main/javav2/example_code/s3/src/main/java/com/example/s3
+- https://viblo.asia/p/spring-boot-upload-amazon-s3-aWj53xkQK6m
+- https://tika.apache.org/
 
+**Kết quả thực thi**
+```shell
+-------------------------
+```
