@@ -30,10 +30,10 @@ services:
     command: server --console-address ":9001" /data
     
     networks:
-      - common_network
+      - common-network
 
 networks:
-    common_network:
+    common-network:
       external: true
 ```
 
